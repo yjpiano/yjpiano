@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yun Jin @yjpiano
 - 👀 I’m interested in data analytics and piano!
-- 💞️ I’m looking to collaborate on educational data analytics.
+- 💞️ I’m looking to collaborate on learning analytics.
 - 📫 How to reach me: https://www.linkedin.com/in/yunjinrho/
 
 <!---
